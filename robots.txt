@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sonj140.github.io/2028-5/sitemap.xml
